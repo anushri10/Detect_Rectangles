@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib as plt 
 
 
-img_clr = cv2.imread('fill4.png')
-img = cv2.imread('fill4.png',cv2.IMREAD_GRAYSCALE)
+img_clr = cv2.imread('fill3.png')
+img = cv2.imread('fill3.png',cv2.IMREAD_GRAYSCALE)
 
 #resize image
 print(img.shape)
